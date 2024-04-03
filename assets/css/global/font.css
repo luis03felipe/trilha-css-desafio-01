@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+h1 {
+  font-size: 40px;
+  text-transform: uppercase;
+  background-image: linear-gradient(to bottom, #33a8db, #1472b7);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-weight: 900;
+  margin: 1rem auto;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  color: #fff;
+}
+
+h2 {
+  font-size: 32px;
+  color: #33a8db;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+span{
+    color: #33A8DB;
+}
